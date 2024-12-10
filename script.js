@@ -1,4 +1,3 @@
-
 dr = document.getElementById("draw");
 ctx = dr.getContext("2d");
 //  ctx.fillStyle = "black";
